@@ -1,7 +1,7 @@
-# 🌍 Loro Planner – Your AI Travel Companion ✈️  
+# 🌍 RORO Planner – Your AI Travel Companion ✈️  
 
 **Planning a trip but unsure where to go or how to organize your route?**  
-✨ **Loro Planner** is here to solve your travel worries!  
+✨ **RORO Planner** is here to solve your travel worries!  
 
 ## 🚀 Features  
 
@@ -17,8 +17,8 @@
 ✨ **Personalized Recommendation System**  
 - Get **tailored suggestions** based on your preferences!  
 
-Leave the complicated planning to **Loro Planner** and focus on enjoying your journey! 🌟  
+Leave the complicated planning to **RORO Planner** and focus on enjoying your journey! 🌟  
 
 ---
 
-**_To my sweet baby Loro, this planner is lovingly dedicated to you._** 💛✨
+**_To my sweet baby RORO, this planner is lovingly dedicated to you._** 💛✨
